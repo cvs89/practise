@@ -1,0 +1,12 @@
+/Users/cvs/Projects/stackoverflow/stackoverflow/bin/Debug/netcoreapp3.1/stackoverflow.deps.json
+/Users/cvs/Projects/stackoverflow/stackoverflow/bin/Debug/netcoreapp3.1/stackoverflow.runtimeconfig.json
+/Users/cvs/Projects/stackoverflow/stackoverflow/bin/Debug/netcoreapp3.1/stackoverflow.runtimeconfig.dev.json
+/Users/cvs/Projects/stackoverflow/stackoverflow/bin/Debug/netcoreapp3.1/stackoverflow.dll
+/Users/cvs/Projects/stackoverflow/stackoverflow/bin/Debug/netcoreapp3.1/stackoverflow.pdb
+/Users/cvs/Projects/stackoverflow/stackoverflow/obj/Debug/netcoreapp3.1/stackoverflow.csprojAssemblyReference.cache
+/Users/cvs/Projects/stackoverflow/stackoverflow/obj/Debug/netcoreapp3.1/stackoverflow.csproj.CoreCompileInputs.cache
+/Users/cvs/Projects/stackoverflow/stackoverflow/obj/Debug/netcoreapp3.1/stackoverflow.AssemblyInfoInputs.cache
+/Users/cvs/Projects/stackoverflow/stackoverflow/obj/Debug/netcoreapp3.1/stackoverflow.AssemblyInfo.cs
+/Users/cvs/Projects/stackoverflow/stackoverflow/obj/Debug/netcoreapp3.1/stackoverflow.dll
+/Users/cvs/Projects/stackoverflow/stackoverflow/obj/Debug/netcoreapp3.1/stackoverflow.pdb
+/Users/cvs/Projects/stackoverflow/stackoverflow/obj/Debug/netcoreapp3.1/stackoverflow.genruntimeconfig.cache
